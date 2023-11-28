@@ -8,7 +8,7 @@
 
 - [Information Technology Associate Degree] 
 
-- [AWS Cloud Practionier Certfication-Pending]
+- [AWS Cloud Practitioner Certfication-Pending]
 
 <h2> 🤳 Connect with me:</h2>
 
