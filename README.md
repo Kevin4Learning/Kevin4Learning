@@ -5,7 +5,9 @@
 -[Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2>Certification</h2>
+
 - [Information Technology Associate Degree] 
+
 - [AWS Cloud Practionier Certfication-Pending]
 
 <h2> 🤳 Connect with me:</h2>
