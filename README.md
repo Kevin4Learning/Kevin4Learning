@@ -10,8 +10,8 @@
 
 - [AWS Cloud Practitioner Certfication-Pending]
 
-- <h2>Blogg Post</h2>
-- [Kevin4Learning](https://kevin4learning.blogspot.com/)
+- <h2>Blog Post</h2>
+- [Kevin4Learning.blogspot.com](https://kevin4learning.blogspot.com/)
 
 <h2> 🤳 Connect with me:</h2>
 
